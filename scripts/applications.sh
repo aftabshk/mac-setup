@@ -7,6 +7,7 @@ applications=(
   intellij-idea
   zoom
   1password
+  iterm2
 )
 
 for i in "${applications[@]}"; do 
