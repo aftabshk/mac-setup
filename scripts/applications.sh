@@ -8,6 +8,7 @@ applications=(
   zoom
   1password
   iterm2
+  mattermost
 )
 
 for i in "${applications[@]}"; do 
