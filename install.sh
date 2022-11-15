@@ -13,4 +13,10 @@ source ./scripts/node_modules.sh
 echo "installing vscode plugins"
 source ./scripts/vscode_plugins.sh
 
+echo "installing sdkman for java"
+source ./scripts/java_setup.sh
+
+echo "setting up zsh"
+source ./scripts/zsh_setup.sh
+
 brew cleanup
