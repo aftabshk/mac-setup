@@ -25,6 +25,7 @@ coreUtils=(
     fish
     vim
     colima
+    go
 )
 
 for i in "${coreUtils[@]}"; do 
