@@ -14,7 +14,6 @@ coreUtils=(
     node
     watch
     ack
-    autojump
     kubernetes-cli
     minikube
     nvm
